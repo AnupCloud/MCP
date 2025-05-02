@@ -1,0 +1,18 @@
+{
+  "name": "mcp_demo",
+  "version": "1.0.0",
+  "description": "This project demonstrates how to use Model Context Protocol (MCP) agents with browser automation and search tools, powered by Playwright, Airbnb, and DuckDuckGo integrations. It features an interactive chat interface with memory, using OpenAI or Groq LLMs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.11.0",
+    "@playwright/mcp": "^0.0.18",
+    "zod": "^3.24.3"
+  }
+}
