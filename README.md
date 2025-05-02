@@ -36,7 +36,7 @@ This project allows you to:
 ## Installation
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone [<your-repo-url>](https://github.com/AnupCloud/MCP.git)
    cd mcp_demo
    ```
 
